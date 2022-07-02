@@ -1,0 +1,105 @@
+{
+    "Nav" : {
+        "navLink" : ["home", "about", "work", "service", "blog"],
+        "navLogo" : "logo.png"
+    },
+    "Header" : {
+        "slider" : [
+            {
+                "slider_title" : "Alecto is simple PSD Template",
+                "slider_desc" : "Nam varius accumsan elementum aliquam",
+                "slider_button" : "Learn more"
+            },
+            {
+                "slider_title" : "Alecto is simple PSD Template",
+                "slider_desc" : "Nam varius accumsan elementum aliquam",
+                "slider_button" : "Learn more"
+            }
+        ]
+    },
+    "Content" : {
+        "About" : {
+            "about_title" : "About us",
+            "about_desc" : "Nam varius accumsan elementum. Aliquam fermentum eros in suscipit scelerisque.",
+            "about_blocks" : [
+                {
+                    "about_blocks_img" : "about_1.svg",
+                    "about_blocks_title" : "Lorem ipsum",
+                    "about_blocks_desc" : "Nam varius accumsan elementum. Aliquam fermentum eros in suscipit scelerisque."
+                },
+                {
+                    "about_blocks_img" : "about_2.svg",
+                    "about_blocks_title" : "Lorem ipsum",
+                    "about_blocks_desc" : "Nam varius accumsan elementum. Aliquam fermentum eros in suscipit scelerisque."
+                },
+                {
+                    "about_blocks_img" : "about_3.svg",
+                    "about_blocks_title" : "Lorem ipsum",
+                    "about_blocks_desc" : "Nam varius accumsan elementum. Aliquam fermentum eros in suscipit scelerisque."
+                },
+                {
+                    "about_blocks_img" : "about_4.svg",
+                    "about_blocks_title" : "Lorem ipsum",
+                    "about_blocks_desc" : "Nam varius accumsan elementum. Aliquam fermentum eros in suscipit scelerisque."
+                }
+            ],
+            "about_button" : "Learn more"
+        }
+    },
+    "Our_service" : {
+        "our_service_title" : "Our services",
+        "our_service_desc" : "Nam varius accumsan elementum. Aliquam fermentum eros in suscipit scelerisque.",
+        "our_service_blocks" : [
+            {
+                "block_img" : "our_services_1.png",
+                "block_title" : "Portfolio",
+                "block_desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elementum augue sed est porttitor, ac blandit nisl posuere."
+            },
+            {
+                "block_img" : "our_services_2.png",
+                "block_title" : "Design",
+                "block_desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elementum augue sed est porttitor, ac blandit nisl posuere."
+            },
+            {
+                "block_img" : "our_services_3.png",
+                "block_title" : "Branding",
+                "block_desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elementum augue sed est porttitor, ac blandit nisl posuere."
+            },
+            {
+                "block_img" : "our_services_4.png",
+                "block_title" : "Development",
+                "block_desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque elementum augue sed est porttitor, ac blandit nisl posuere."
+            }
+        ]
+    },
+    "Pricing" : {
+        "Pricing_title" : "Pricing",
+        "Pricing_desc" : "Nam varius accumsan elementum. Aliquam fermentum eros in suscipit scelerisque.",
+        "Pricing_block": [
+            {
+                "price" : 29,
+                "pDesc" : "Lorem ipsum license",
+                "desc" : "Lorem ipsum dolor sit amet consectetur adipiscing elit Ante sed interdum labortis Est nisi efficitur lactus",
+                "button" : "PURCHASE"
+            },
+            {
+                "price" : 39,
+                "pDesc" : "Lorem ipsum license",
+                "desc" : "Lorem ipsum dolor sit amet consectetur adipiscing elit Ante sed interdum labortis Est nisi efficitur lactus",
+                "button" : "PURCHASE"
+            },
+            {
+                "price" : 49,
+                "pDesc" : "Lorem ipsum license",
+                "desc" : "Lorem ipsum dolor sit amet consectetur adipiscing elit Ante sed interdum labortis Est nisi efficitur lactus",
+                "button" : "PURCHASE"
+            },
+            {
+                "price" : 109,
+                "pDesc" : "Lorem ipsum license",
+                "desc" : "Lorem ipsum dolor sit amet consectetur adipiscing elit Ante sed interdum labortis Est nisi efficitur lactus",
+                "button" : "PURCHASE"
+            }
+        ]
+    }
+}
